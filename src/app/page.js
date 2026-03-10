@@ -368,7 +368,7 @@ export default function LandingPage() {
               <motion.p variants={fadeIn} className="text-xl text-gray-300">
                 {" "}
                 Discover, analyze, and invest in curated crypto strategies
-                (Decks), or create your own. Powered by Polkadot's shared
+                (Decks), or create your own. Powered by Polkadot&apos;s shared
                 security.{" "}
               </motion.p>
               <motion.div className="pt-4" variants={fadeIn}>
@@ -721,17 +721,17 @@ export default function LandingPage() {
                 {
                   question: "What is PolkaInvest?",
                   answer:
-                    "PolkaInvest is a decentralized investment platform built on Polkadot Hub TestNet, combining Polkadot's shared security with DeFi innovation.",
+                    "PolkaInvest is a decentralized investment platform built on Polkadot Hub TestNet, combining Polkadot&apos;s shared security with DeFi innovation.",
                 },
                 {
                   question: "How do I connect my wallet?",
                   answer:
-                    "Simply click on 'Connect Wallet' and select your preferred Web3 wallet like MetaMask or WalletConnect.",
+                    "Simply click on &apos;Connect Wallet&apos; and select your preferred Web3 wallet like MetaMask or WalletConnect.",
                 },
                 {
                   question: "Are my funds safe?",
                   answer:
-                    "Security is our top priority. PolkaInvest leverages Polkadot's relay-chain security model for robust, decentralized protection.",
+                    "Security is our top priority. PolkaInvest leverages Polkadot&apos;s relay-chain security model for robust, decentralized protection.",
                 },
                 {
                   question: "What cryptocurrencies are supported?",
