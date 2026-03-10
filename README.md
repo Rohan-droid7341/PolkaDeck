@@ -5,6 +5,7 @@
 
 This platform allows you to browse various investment approaches, from yield farming to growth token baskets, all within the Rootstock ecosystem which leverages Bitcoin's security. Invest using the platform's native token (PTK), track your portfolio's performance, withdraw profits, and even create your own Decks for others to join. An integrated AI provides snapshot overviews of deck statistics to offer additional perspective.
 
+<img width="1688" height="826" alt="image" src="https://github.com/user-attachments/assets/889fd3f8-7f5c-46bd-9740-67dbda0c6c76" />
 
 
 ## Core Features
@@ -73,34 +74,38 @@ npm start
 
 ## UI Components
 
-### 1. Landing Page  
-A clean welcome screen prompting users to connect their wallet and start exploring.  
 
 
 
-### 2. Dashboard  
+### 1. Dashboard  
 User control panel showing balances, usage stats, and quick navigation.  
 
+<img width="1803" height="675" alt="image" src="https://github.com/user-attachments/assets/162f1472-ab08-454d-bd74-9153a706247d" />
 
-### 3. Decks List  
+
+### 2. Decks List  
 Searchable grid/list of all on-chain decks, with key metrics (returns, risk, entry cost).  
 
+<img width="1756" height="516" alt="image" src="https://github.com/user-attachments/assets/da44c30e-5c31-42ed-ab17-46fd697a203c" />
 
 
-### 4. Portfolio  
+### 3. Portfolio  
 Personal summary of invested decks, profits, and withdrawal options.  
 
+<img width="1734" height="539" alt="image" src="https://github.com/user-attachments/assets/ade879f4-6653-4a80-b9f0-7451695d40e2" />
 
 
-### 5. Deck Creation  
+### 4. Deck Creation  
 Form-based UI to define strategy parameters, pay creation fee, and submit for approval. 
 
+<img width="1639" height="721" alt="image" src="https://github.com/user-attachments/assets/47ecf6a3-1910-4d26-a6ec-30a8932d95b5" />
 
 
-### 6. Buy Token  
+### 5. Buy Token  
 
-In-app swap interface to buy the platform’s token with RTBTC.  
+In-app swap interface to buy the platform’s token with PAS.  
 
+<img width="1729" height="538" alt="image" src="https://github.com/user-attachments/assets/16cb9cfd-2ec1-4e72-ba11-5996d5b120e9" />
 
 
 
@@ -108,7 +113,7 @@ In-app swap interface to buy the platform’s token with RTBTC.
 
 ## Deploy Link
 
-Live demo: [click here](https://farming-protocol.vercel.app/)
+Live demo: 
 
 
 
